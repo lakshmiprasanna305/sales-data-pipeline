@@ -19,4 +19,4 @@ showing real-time sales analytics.
 5. Load fact_sales table
 
 ## Screenshots
-(Add screenshots after creating dashboard)
+![Dashboard](dashboard.png)
