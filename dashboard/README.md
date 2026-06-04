@@ -19,4 +19,4 @@ showing real-time sales analytics.
 5. Load fact_sales table
 
 ## Screenshots
-![Dashboard](dashboard.png)
+![Dashboard](dashboard_screenshot.png)
